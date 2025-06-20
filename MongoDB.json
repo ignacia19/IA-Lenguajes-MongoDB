@@ -1,0 +1,34 @@
+[
+  {
+    "nombre": "Python",
+    "porcentajeUsoGlobal": 29.9,
+    "posicionRankingGlobal": 1,
+    "posicionRankingChile": 1,
+    "esPopularComercioChile": true,
+    "aplicacionesIA": ["Machine Learning", "Deep Learning", "NLP"]
+  },
+  {
+    "nombre": "JavaScript",
+    "porcentajeUsoGlobal": 19.6,
+    "posicionRankingGlobal": 2,
+    "posicionRankingChile": 3,
+    "esPopularComercioChile": true,
+    "aplicacionesIA": ["Web AI", "Chatbots"]
+  },
+  {
+    "nombre": "R",
+    "porcentajeUsoGlobal": 4.3,
+    "posicionRankingGlobal": 7,
+    "posicionRankingChile": 8,
+    "esPopularComercioChile": false,
+    "aplicacionesIA": ["Análisis estadístico", "Visualización"]
+  },
+  {
+    "nombre": "Julia",
+    "porcentajeUsoGlobal": 1.2,
+    "posicionRankingGlobal": 15,
+    "posicionRankingChile": 12,
+    "esPopularComercioChile": false,
+    "aplicacionesIA": ["Cómputo científico", "Modelado matemático"]
+  }
+]
